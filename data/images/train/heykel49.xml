@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>heykel49.jpg</filename>
+	<path>C:\Users\Yasir\Desktop\NesneTanıma\images\heykel49.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>heykel</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>92</xmin>
+			<ymin>278</ymin>
+			<xmax>490</xmax>
+			<ymax>674</ymax>
+		</bndbox>
+	</object>
+</annotation>
